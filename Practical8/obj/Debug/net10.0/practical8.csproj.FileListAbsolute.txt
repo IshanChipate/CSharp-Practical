@@ -1,0 +1,15 @@
+E:\CSharp_Sem6\CSharp-Practical\practical8\bin\Debug\net10.0\practical8.exe
+E:\CSharp_Sem6\CSharp-Practical\practical8\bin\Debug\net10.0\practical8.deps.json
+E:\CSharp_Sem6\CSharp-Practical\practical8\bin\Debug\net10.0\practical8.runtimeconfig.json
+E:\CSharp_Sem6\CSharp-Practical\practical8\bin\Debug\net10.0\practical8.dll
+E:\CSharp_Sem6\CSharp-Practical\practical8\bin\Debug\net10.0\practical8.pdb
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.AssemblyInfoInputs.cache
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.AssemblyInfo.cs
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.csproj.CoreCompileInputs.cache
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.sourcelink.json
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.dll
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\refint\practical8.dll
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.pdb
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\practical8.genruntimeconfig.cache
+E:\CSharp_Sem6\CSharp-Practical\practical8\obj\Debug\net10.0\ref\practical8.dll

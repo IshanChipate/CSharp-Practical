@@ -1,0 +1,19 @@
+﻿using System;
+
+class EvenOdd
+{
+    static void Main()
+    {
+        int num;
+
+        Console.Write("Enter a number: ");
+        num = Convert.ToInt32(Console.ReadLine());
+
+        if (num % 2 == 0)
+            Console.WriteLine("Number is Even");
+        else
+            Console.WriteLine("Number is Odd");
+
+        Console.ReadKey();
+    }
+}

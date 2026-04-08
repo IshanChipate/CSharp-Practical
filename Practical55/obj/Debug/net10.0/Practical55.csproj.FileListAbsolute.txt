@@ -1,0 +1,15 @@
+E:\CSharp_Sem6\CSharp-Practical\Practical55\bin\Debug\net10.0\Practical55.exe
+E:\CSharp_Sem6\CSharp-Practical\Practical55\bin\Debug\net10.0\Practical55.deps.json
+E:\CSharp_Sem6\CSharp-Practical\Practical55\bin\Debug\net10.0\Practical55.runtimeconfig.json
+E:\CSharp_Sem6\CSharp-Practical\Practical55\bin\Debug\net10.0\Practical55.dll
+E:\CSharp_Sem6\CSharp-Practical\Practical55\bin\Debug\net10.0\Practical55.pdb
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.AssemblyInfoInputs.cache
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.AssemblyInfo.cs
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.csproj.CoreCompileInputs.cache
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.sourcelink.json
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.dll
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\refint\Practical55.dll
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.pdb
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\Practical55.genruntimeconfig.cache
+E:\CSharp_Sem6\CSharp-Practical\Practical55\obj\Debug\net10.0\ref\Practical55.dll

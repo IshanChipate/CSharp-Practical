@@ -1,0 +1,15 @@
+E:\CSharp_SEM6\Csharp-Practical\practical40\bin\Debug\net10.0\practical40.exe
+E:\CSharp_SEM6\Csharp-Practical\practical40\bin\Debug\net10.0\practical40.deps.json
+E:\CSharp_SEM6\Csharp-Practical\practical40\bin\Debug\net10.0\practical40.runtimeconfig.json
+E:\CSharp_SEM6\Csharp-Practical\practical40\bin\Debug\net10.0\practical40.dll
+E:\CSharp_SEM6\Csharp-Practical\practical40\bin\Debug\net10.0\practical40.pdb
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.AssemblyInfoInputs.cache
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.AssemblyInfo.cs
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.csproj.CoreCompileInputs.cache
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.sourcelink.json
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.dll
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\refint\practical40.dll
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.pdb
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\practical40.genruntimeconfig.cache
+E:\CSharp_SEM6\Csharp-Practical\practical40\obj\Debug\net10.0\ref\practical40.dll

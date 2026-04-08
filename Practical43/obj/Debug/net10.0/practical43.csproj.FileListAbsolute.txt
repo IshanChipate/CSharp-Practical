@@ -1,0 +1,15 @@
+E:\CSharp_SEM6\Csharp-Practical\practical43\bin\Debug\net10.0\practical43.exe
+E:\CSharp_SEM6\Csharp-Practical\practical43\bin\Debug\net10.0\practical43.deps.json
+E:\CSharp_SEM6\Csharp-Practical\practical43\bin\Debug\net10.0\practical43.runtimeconfig.json
+E:\CSharp_SEM6\Csharp-Practical\practical43\bin\Debug\net10.0\practical43.dll
+E:\CSharp_SEM6\Csharp-Practical\practical43\bin\Debug\net10.0\practical43.pdb
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.AssemblyInfoInputs.cache
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.AssemblyInfo.cs
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.csproj.CoreCompileInputs.cache
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.sourcelink.json
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.dll
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\refint\practical43.dll
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.pdb
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\practical43.genruntimeconfig.cache
+E:\CSharp_SEM6\Csharp-Practical\practical43\obj\Debug\net10.0\ref\practical43.dll

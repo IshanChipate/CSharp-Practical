@@ -1,0 +1,19 @@
+﻿using System;
+
+class LeapYear
+{
+    static void Main()
+    {
+        int year;
+
+        Console.Write("Enter a year: ");
+        year = Convert.ToInt32(Console.ReadLine());
+
+        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
+            Console.WriteLine("Leap Year");
+        else
+            Console.WriteLine("Not a Leap Year");
+
+        Console.ReadKey();
+    }
+}

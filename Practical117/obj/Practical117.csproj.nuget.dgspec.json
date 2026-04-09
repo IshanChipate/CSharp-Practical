@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CSharp_Sem6\\CSharp-Practical\\practical101\\Practical101.csproj": {}
+    "E:\\CSharp_Sem6\\CSharp-Practical\\Practical117\\Practical117.csproj": {}
   },
   "projects": {
-    "E:\\CSharp_Sem6\\CSharp-Practical\\practical101\\Practical101.csproj": {
+    "E:\\CSharp_Sem6\\CSharp-Practical\\Practical117\\Practical117.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharp_Sem6\\CSharp-Practical\\practical101\\Practical101.csproj",
-        "projectName": "Practical101",
-        "projectPath": "E:\\CSharp_Sem6\\CSharp-Practical\\practical101\\Practical101.csproj",
+        "projectUniqueName": "E:\\CSharp_Sem6\\CSharp-Practical\\Practical117\\Practical117.csproj",
+        "projectName": "Practical117",
+        "projectPath": "E:\\CSharp_Sem6\\CSharp-Practical\\Practical117\\Practical117.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharp_Sem6\\CSharp-Practical\\practical101\\obj\\",
+        "outputPath": "E:\\CSharp_Sem6\\CSharp-Practical\\Practical117\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

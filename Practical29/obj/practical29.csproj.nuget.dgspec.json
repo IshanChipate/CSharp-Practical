@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CSharp_Sem6\\Csharp-Practical\\practical29\\practical29.csproj": {}
+    "E:\\CSharp_Sem6\\CSharp-Practical\\Practical29\\practical29.csproj": {}
   },
   "projects": {
-    "E:\\CSharp_Sem6\\Csharp-Practical\\practical29\\practical29.csproj": {
+    "E:\\CSharp_Sem6\\CSharp-Practical\\Practical29\\practical29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharp_Sem6\\Csharp-Practical\\practical29\\practical29.csproj",
+        "projectUniqueName": "E:\\CSharp_Sem6\\CSharp-Practical\\Practical29\\practical29.csproj",
         "projectName": "practical29",
-        "projectPath": "E:\\CSharp_Sem6\\Csharp-Practical\\practical29\\practical29.csproj",
+        "projectPath": "E:\\CSharp_Sem6\\CSharp-Practical\\Practical29\\practical29.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharp_Sem6\\Csharp-Practical\\practical29\\obj\\",
+        "outputPath": "E:\\CSharp_Sem6\\CSharp-Practical\\Practical29\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
